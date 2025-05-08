@@ -1,2 +1,2 @@
 # Tic-Tac-Toe-Game
-in javascript.
+This project is developed in html,css and Javascript.
