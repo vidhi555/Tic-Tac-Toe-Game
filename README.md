@@ -1,6 +1,6 @@
 # Tic-Tac-Toe-Game
 A simple and fun Tic-Tac-Toe(X-O) game built using HTML,CSS and JavaScript. Play against a friend in same browser.
-# Features
+## Features
 - Two-player mode (Player X and Player O)
 - Detects win, lose, and draw conditions
 - Restart the game anytime
