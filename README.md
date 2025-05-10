@@ -5,7 +5,7 @@ A simple and fun Tic-Tac-Toe(X-O) game built using HTML,CSS and JavaScript. Play
 - Detects win, lose, and draw conditions
 - Restart the game anytime
 - Responsive design for desktop and mobile
-# Technologies Used
+## Technologies Used
 - **HTML5** – structure of the game board
 - **CSS3** – styling and layout
 - **JavaScript** – game logic and interactions
